@@ -1,0 +1,34 @@
+# runtime secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Python/runtime
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# local data
+*.db
+*.sqlite
+*.sqlite3
+*.db-shm
+*.db-wal
+logs/
+*.log
+tmp/
+attachments/
+reports/
+
+# archives/backups
+*.tar.gz
+*.tgz
+*.zip
+backups/
+backup_*/
+
+# macOS
+.DS_Store
+._*

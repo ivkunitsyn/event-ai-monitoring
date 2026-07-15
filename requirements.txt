@@ -1,0 +1,9 @@
+aiohttp
+aiosqlite
+feedparser
+openpyxl
+rapidfuzz
+openai
+httpx
+python-dateutil
+requests
